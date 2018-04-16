@@ -1,6 +1,6 @@
 <?php 
 
- $x = 4;
+ $x = 5;
  $fatorial = $x;
 
 if($x>1){
